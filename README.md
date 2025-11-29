@@ -33,11 +33,5 @@ Hi, I'm **Viswas B Kurian**, an MCA student passionate about software developmen
 
 ---
 
-# 🐍 GitHub Contribution Snake:
-![Snake animation](https://raw.githubusercontent.com/viswas-kurian/viswas-kurian/output/snake.svg)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=viswas-kurian&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
