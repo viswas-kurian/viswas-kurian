@@ -1,3 +1,8 @@
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00FFAA&center=true&vCenter=true&width=900&lines=Hi+I'm+Viswas+B+Kurian;MCA+Student+%7C+Developer+%7C+Tech+Enthusiast;I+love+building+real-world+projects;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+---
+
 # 💫 About Me:
 Hi, I'm **Viswas B Kurian**, an MCA student passionate about software development and problem-solving. I enjoy working with Python, Django, and web technologies and love building practical projects that improve my technical and logical skills. Currently exploring full-stack development and real-world applications.
 
@@ -25,6 +30,11 @@ Hi, I'm **Viswas B Kurian**, an MCA student passionate about software developmen
 ![](https://nirzak-streak-stats.vercel.app/?user=viswas-kurian&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-kurian&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🐍 GitHub Contribution Snake:
+![Snake animation](https://raw.githubusercontent.com/viswas-kurian/viswas-kurian/output/snake.svg)
 
 ---
 
