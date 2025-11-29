@@ -34,14 +34,7 @@ Hi, I'm **Viswas B Kurian**, an MCA student passionate about software developmen
 
 ![](https://nirzak-streak-stats.vercel.app/?user=viswas-kurian&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-kurian&theme=dark&hide_border=false&layout=compact)<br/>
-
-![](https://github-profile-trophy.vercel.app/?username=viswas-kurian&theme=radical)
-
----
-
-# ✨ Fun Animation:
-<marquee behavior="scroll" direction="left" scrollamount="10">🚀 Welcome to my GitHub profile! Explore my projects, skills, and journey. 👨‍💻</marquee>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-kurian&theme=dark&hide_border=false&layout=compact)
 
 ---
 
