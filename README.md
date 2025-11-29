@@ -34,7 +34,7 @@ Hi, I'm **Viswas B Kurian**, an MCA student passionate about software developmen
 ---
 
 # 🐍 GitHub Contribution Snake:
-![snake gif](https://raw.githubusercontent.com/viswas-kurian/viswas-kurian/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/viswas-kurian/viswas-kurian/output/snake.svg)
 
 ---
 
