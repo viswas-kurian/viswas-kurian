@@ -42,42 +42,30 @@ I am an **MCA student** dedicated to mastering software development. I specializ
 
 ### 🏆 Featured Projects
 
-#### 🏏 [Cricket Auction Arena](https://github.com/viswas-kurian/cricket-auction-arena)
+#### 🏏 [Cricket Auction Arena](https://github.com/viswas-kurian)
 > **Real-Time IPL-Style Auction Simulation Engine**
 - **Core:** Intelligent AI bidding logic & server-controlled refresh-safe timers.
 - **UX:** SPA-style dynamic UI (no reloads) with post-auction analytics.
 - **Tech:** `Django`, `Python`, `Vanilla JavaScript`
 
-#### 💻 [Laptop Remote Controller](https://github.com/viswas-kurian/laptop-remote-control)
+#### 💻 [Laptop Remote Controller](https://github.com/viswas-kurian)
 > **System Interaction & Networking Tool**
 - **Core:** Execute commands and manage power states via a secure web interface.
 - **Tech:** `Python`, `Flask`, `Socket Programming`, `System APIs`
 
-#### 🛒 [Shopease – Online Shopping System](https://github.com/viswas-kurian/OnlineShopping-Shopease-)
-> **Multi-Role E-Commerce with Real-Time Assistance**
-- **Core:** RBAC (Admin/Mod/User) with real-time chat between Mods & Customers.
-- **Tech:** `Django`, `MySQL`, `WebSockets`
-
-#### 🚌 [Online Bus Reservation System](https://github.com/viswas-kurian/online-bus-reservation-system)
-> **Transaction-Based Booking Platform**
-- **Core:** Real-time seat management & structured DFD-based system design.
-- **Tech:** `Django`, `MySQL`
-
----
-
-### 🏗️ System Design Philosophy
-I enjoy designing backend systems that simulate real-world processes—whether it's an auction's competitive pressure, a booking engine's transactional integrity, or a multi-role commerce platform's live interaction.
-
 ---
 
 ### 📈 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viswas-kurian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-kurian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
-</div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=viswas-kurian&theme=tokyonight&hide_border=true" alt="Streak Stats" width="85%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=viswas-kurian&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-kurian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170px" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viswas-kurian&theme=radical&hide_border=true" alt="Streak Stats" />
+
 </div>
 
 ---
