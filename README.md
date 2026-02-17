@@ -2,13 +2,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00FFAA&center=true&vCenter=true&width=900&lines=Hi+I'm+Viswas+B+Kurian;MCA+Student+%7C+Full-Stack+Developer;Building+Digital+Solutions+with+Code;Welcome+to+my+Creative+Space!" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4eXp4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCB3d20mc2l6ZT1n/3o7TKSjPqcKGRZaO7S/giphy.gif" width="200">
+<img src="https://github.com/user-attachments/assets/9599577c-a454-46c5-9271-9c6a6f68e0d6" width="350">
 
 # 🚀 Passionate MCA Student & Full-Stack Developer
 *Transforming logic into elegant code.*
 
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/viswas-b-kurian)
-[<img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=black">](https://github.com/viswas-kurian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/viswas-b-kurian)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viswas-kurian)
 
 ---
 
@@ -23,11 +23,25 @@ I specialize in the **Python ecosystem** and love building scalable web applicat
 
 ### 🛠️ My Tech Toolbox
 
+<div align="center">
+
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **Web Frameworks** | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
-| **DevOps & Cloud** | ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Frameworks** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Cloud/Tools** | ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+</div>
+
+---
+
+### 📂 Featured Projects
+*Here are a few things I've been working on lately:*
+
+* **[Project Name]** - A brief 1-sentence description of your best project. 
+    *`Python | Django | PostgreSQL`*
+* **[Project Name]** - Another cool project description goes here.
+    *`JavaScript | Flask | Render`*
 
 ---
 
@@ -42,13 +56,6 @@ I specialize in the **Python ecosystem** and love building scalable web applicat
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=viswas-kurian&theme=tokyonight" alt="Streak Stats" width="80%" />
 </div>
-
----
-
-### 🌱 Growth & Interests
-- 📚 **Learning:** Deep Diving into AI and LLM integration.
-- 💡 **Innovation:** Experimenting with microservices in Python.
-- 🎨 **Hobbies:** Reading tech blogs and refining UI/UX designs.
 
 ---
 
