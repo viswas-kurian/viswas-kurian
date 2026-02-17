@@ -55,16 +55,17 @@ I am an **MCA student** dedicated to mastering software development. I specializ
 
 ---
 
-### 📈 GitHub Insights
+### 📈 Activity Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=viswas-kurian&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswas-kurian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170px" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=viswas-kurian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="175px" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=viswas-kurian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175px" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viswas-kurian&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viswas-kurian&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
