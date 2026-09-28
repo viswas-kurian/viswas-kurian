@@ -1,101 +1,171 @@
+<!--
+  TODO (optional): Nextick has no description or repo link here because none was provided.
+  Add a one-line description and its repo URL in the Nextick card below when ready.
+-->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FFAA&center=true&vCenter=true&width=600&lines=viswas%40github%3A~%24+whoami;MCA+student.+Python+%2F+Django.;Building+practical+software." alt="Terminal-style intro: viswas@github, whoami, MCA student, Python and Django developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00FFAA&center=true&vCenter=true&width=640&lines=viswas%40github%3A~%24+whoami;MCA+student.+Python+%2F+Django.;Building+things.+Breaking+things.+Fixing+things." alt="Terminal-style typing intro: viswas@github, whoami, MCA student, Python and Django" />
 
 </div>
 
-```console
+```text
 viswas@github:~$ whoami
-Viswas B Kurian - MCA student, Python / Django developer
 
-viswas@github:~$ cat about.txt
-I build practical software: web apps, real-time systems, ML experiments,
-and the odd IoT / Android project. Building it is the easy part.
-Debugging it is where most of the learning happens.
+Viswas B Kurian
+MCA Student · Python / Django Developer
+Builds things that solve problems.
+Occasionally creates new problems while solving the old ones.
+```
 
-viswas@github:~$ cat current_focus.txt
-backend architecture, real-time web apps, and shipping things that actually run
+```text
+SYSTEM STATUS
+────────────────────────────────────────
+User        : Viswas
+Role        : MCA Student
+Main Stack  : Python + Django
+Processes   : 4 running (see below)
+Coffee      : Required
+Bugs        : Under investigation
+Sleep       : Optional
+Deploy      : Works on my machine
 ```
 
 ---
 
 ### Currently building
 
-```console
-viswas@github:~$ ls ~/building
-├── RajagiriRecruits                  # recruitment / placement platform
-├── Placement Management System       # Django-based, campus placement workflow
-└── Student Placement Prediction      # machine learning
+```text
+$ ps aux | grep viswas
+
+PID   STATUS        PROCESS
+101   ACTIVE        Nextick
+102   ACTIVE        RajagiriRecruits
+103   IN PROGRESS   Placement Management System
+104   EXPERIMENT    Student Placement Prediction
 ```
 
 ---
 
-### Projects worth a look
+### Projects
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4>Placement Management System &nbsp;<code>IN PROGRESS</code></h4>
+      <sub>A college placement management platform, built end to end.</sub>
+      <br/><br/>
+      <b>What it does:</b> handles the placement process from selection rounds and candidate evaluation through to offers and offer acceptance.
+      <br/><br/>
+      <b>Why it's interesting:</b> it's a full workflow rather than a single feature: backend APIs on one side, frontend workflows on the other, with PostgreSQL underneath and Docker for running it.
+      <br/><br/>
+      <code>PostgreSQL</code> <code>Docker</code> <code>Backend APIs</code> <code>Frontend workflows</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/viswas-kurian?tab=repositories">Cricket Auction Arena</a></h4>
-      <sub>Real-time IPL-style auction simulation engine</sub>
+      <h4>RajagiriRecruits &nbsp;<code>ACTIVE</code></h4>
+      <sub>Django-based faculty recruitment platform.</sub>
       <br/><br/>
-      <b>Why it's interesting:</b> AI bidding logic, plus timers controlled by the server so a page refresh can't break an auction. The UI updates SPA-style without reloads and shows post-auction analytics.
+      <b>Why it's interesting:</b> a real recruitment process modelled as software, not a college assignment with a login page.
       <br/><br/>
-      <code>Django</code> <code>Python</code> <code>Vanilla JavaScript</code>
+      <code>Python</code> <code>Django</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/viswas-kurian?tab=repositories">Laptop Remote Controller</a></h4>
-      <sub>Control a laptop from a web interface</sub>
+      <h4>Nextick &nbsp;<code>ACTIVE</code></h4>
+      <sub>One of my most recent projects.</sub>
       <br/><br/>
-      <b>Why it's interesting:</b> Run commands and manage power states remotely through a secure web interface, which meant working close to the OS and the network.
+      <b>Status:</b> currently in development. Details and repo link will be added as it takes shape.
       <br/><br/>
-      <code>Python</code> <code>Flask</code> <code>Socket Programming</code> <code>System APIs</code>
+      <code>Work in progress</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>Student Placement Prediction &nbsp;<code>EXPERIMENT</code></h4>
+      <sub>A machine learning project exploring whether student placement outcomes can be predicted.</sub>
+      <br/><br/>
+      <code>Python</code> <code>Machine Learning</code>
     </td>
   </tr>
 </table>
 
-More in [my repositories](https://github.com/viswas-kurian?tab=repositories).
+<details>
+<summary><b>Earlier projects</b> (still worth a look)</summary>
+<br/>
+
+| Project | What it is | Tech |
+| :--- | :--- | :--- |
+| **Cricket Auction Arena** | Real-time IPL-style auction simulation engine with AI bidding logic, server-controlled timers that survive a page refresh, an SPA-style UI with no reloads, and post-auction analytics. | `Django` `Python` `Vanilla JavaScript` |
+| **Laptop Remote Controller** | Run commands and manage power states on a laptop through a secure web interface. | `Python` `Flask` `Socket Programming` `System APIs` |
+
+</details>
+
+<sub>All repositories: <a href="https://github.com/viswas-kurian?tab=repositories">github.com/viswas-kurian</a></sub>
+
+---
+
+### Things I like building
+
+```text
+→ Backend systems
+→ Real-time applications
+→ Automation tools
+→ Data-driven applications
+→ Management platforms
+→ ML experiments
+→ Random ideas that somehow become projects
+```
 
 ---
 
 ### Stack
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
+
+<sub>Python and Django are the main tools. The rest I use as projects need them.</sub>
 
 | | |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, PHP, HTML5 |
-| **Backend** | Django, Flask, Socket Programming |
-| **Databases** | MySQL, PostgreSQL, SQLite |
-| **Tools / DevOps** | Git, GitHub, Render, VS Code |
-| **Also working with** | Machine Learning, IoT, Android, Bootstrap |
+| **Languages** | `Python` `Java` `C / C++` `JavaScript` `HTML` `CSS` `PHP` |
+| **Backend** | `Django` `Flask` |
+| **Databases** | `MySQL` `PostgreSQL` `SQLite` |
+| **Tools** | `Git` `GitHub` `Docker` `VS Code` |
+| **Also exploring** | `IoT / MQTT` `Machine Learning` |
 
 ---
 
 ### Currently learning
 
-```console
-viswas@github:~$ cat learning.txt
-[x] Django, past the tutorials
-[ ] System design
-[ ] Backend architecture
-[ ] Machine learning
-[ ] Cloud deployment
-[ ] Better software engineering habits (tests, structure, cleaner commits)
+```text
+$ pip install --upgrade viswas
+
+  system-design ............ in progress
+  advanced-django .......... in progress
+  machine-learning ......... in progress
+  cloud-deployment ......... in progress
+  backend-architecture ..... in progress
+
+Successfully installed: better-engineering-habits (partially)
 ```
 
 ---
 
-### git log --oneline
+### DEBUG.LOG
 
-*Things I learned the hard way.*
-
-```console
-a3f9c21 fix: a page refresh should not reset the auction timer
-7be04d8 fix: the bug is in the line I was sure was correct
-c19d7a5 chore: read the migration before running it
-4d2e8f0 refactor: commit first, refactor second
-e08b6c3 fix: it worked on my machine (not deployed yet)
+```text
+09:42  application started
+10:17  feature added
+10:21  feature broke something else
+10:38  fixed it
+10:39  broke something different
+10:52  read the error message properly this time
+10:53  it was the first line all along
+11:30  git commit -m "final"
+11:45  git commit -m "final (actually)"
 ```
 
 ---
@@ -111,13 +181,18 @@ e08b6c3 fix: it worked on my machine (not deployed yet)
 
 ---
 
-### Find me
+```text
+$ exit
 
-Have an idea, project or bug worth discussing? Find me here.
+Thanks for stopping by.
 
-<a href="https://www.linkedin.com/in/viswas-b-kurian"><img src="https://img.shields.io/badge/LinkedIn-viswas--b--kurian-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile of Viswas B Kurian" /></a>
-<a href="https://github.com/viswas-kurian"><img src="https://img.shields.io/badge/GitHub-viswas--kurian-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile viswas-kurian" /></a>
+If you found something interesting here,
+you know where to find me.
+```
 
-```console
+<a href="https://github.com/viswas-kurian"><img src="https://img.shields.io/badge/GitHub-viswas--kurian-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile: viswas-kurian" /></a>
+<a href="https://www.linkedin.com/in/viswas-b-kurian"><img src="https://img.shields.io/badge/LinkedIn-viswas--b--kurian-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile: Viswas B Kurian" /></a>
+
+```text
 viswas@github:~$ _
 ```
