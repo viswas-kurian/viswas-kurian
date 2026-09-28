@@ -33,8 +33,7 @@ I like building practical software and finding out how it works by breaking it f
       <br/><br/>
       <img src="https://img.shields.io/badge/Nextick-RECENT-22D3EE?style=flat-square" alt="Nextick: recent" /><br/>
       <img src="https://img.shields.io/badge/RajagiriRecruits-ACTIVE-22C55E?style=flat-square" alt="RajagiriRecruits: active" /><br/>
-      <img src="https://img.shields.io/badge/Placement_Management_System-IN_PROGRESS-FACC15?style=flat-square" alt="Placement Management System: in progress" /><br/>
-      <img src="https://img.shields.io/badge/Student_Placement_Prediction-EXPERIMENT-FF4D8D?style=flat-square" alt="Student Placement Prediction: experiment" />
+      <img src="https://img.shields.io/badge/Placement_Management_System-IN_PROGRESS-FACC15?style=flat-square" alt="Placement Management System: in progress" />
     </td>
     <td valign="top" width="50%">
       <b>Still figuring out</b>
@@ -107,20 +106,6 @@ I like building practical software and finding out how it works by breaking it f
       <br/><br/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Student Placement Prediction</h3>
-      <img src="https://img.shields.io/badge/EXPERIMENT-FF4D8D?style=flat-square" alt="Experiment" />
-      <img src="https://img.shields.io/badge/MACHINE_LEARNING-F97316?style=flat-square" alt="Machine learning" />
-      <br/><br/>
-      <b>Can student data predict placement outcomes, and how much does messy data get in the way?</b>
-      <br/><br/>
-      A machine learning experiment covering dataset cleaning, preprocessing, model training and evaluation. The interesting part isn't a perfect model. It's seeing how noisy data and preprocessing choices change whether a model is actually useful.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/Machine_Learning-F97316?style=flat-square" alt="Machine learning" />
     </td>
   </tr>
 </table>
